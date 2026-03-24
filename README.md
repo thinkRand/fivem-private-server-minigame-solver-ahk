@@ -1,0 +1,1 @@
+# fivem-private-server-minigame-solver-ahk
